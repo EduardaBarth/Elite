@@ -7,11 +7,11 @@ p{
 	margin: 5px;
 	background: tomato;
 	text-align: center;
-	font-size: 1.5em;
+	font-size: 2em;
 }
 
 .container {
-	max-width: 400px;
+	max-width: 00px;
 	margin: 0 auto;
 	border: 1px solid #ccc;
 }
