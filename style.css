@@ -4,14 +4,12 @@ p{
     width: 15cm;
 }
 .item {
-	margin: 5px;
 	background: tomato;
-	text-align: center;
-	font-size: 2em;
 }
 
 .container {
 	width: 400px;
 	margin: 0 auto;
-	border: 1px solid #ccc;
+	border: 2px solid tomato;
+    justify-content: center;
 }
