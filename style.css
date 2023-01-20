@@ -6,10 +6,3 @@ p{
 .item {
 	background: tomato;
 }
-
-.container {
-	width: 400px;
-	margin: 0 auto;
-	border: 2px solid tomato;
-    justify-content: center;
-}
